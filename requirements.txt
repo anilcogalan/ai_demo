@@ -1,0 +1,10 @@
+openai==1.52.0
+python-dotenv==1.0.1
+streamlit==1.39.0
+wave==0.0.2
+gtts==2.5.3
+sounddevice
+sounddevice
+soundfile
+numpy
+pyaudio

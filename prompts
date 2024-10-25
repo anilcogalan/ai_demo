@@ -1,0 +1,17 @@
+prompt1 = f"""
+    Bir banka görevlisisin. Aşağıdaki para transferi işlemini simüle et ve olası sonuçları açıkla:
+
+    Gönderen: {gonderen}
+    Alıcı: {alici}
+    Miktar: {miktar} TL
+    IBAN: {iban}
+
+    Lütfen şunları içeren bir yanıt oluştur:
+    1. İşlem onayı veya reddi
+    2. Olası işlem ücretleri
+    3. Tahmini transfer süresi
+    4. Güvenlik kontrolleri
+    5. Varsa ek öneriler veya uyarılar
+    """
+
+

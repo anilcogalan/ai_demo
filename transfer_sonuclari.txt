@@ -1,0 +1,64 @@
+Gönderen: ABC
+Alıcı: DEF
+Miktar: 5000.0 TL
+IBAN: TR33 0006 1005 1978 6457 8413 26
+Simülasyon Sonucu:
+İşlem Onayı:
+İşlenmiş ve onaylanmıştır. 
+
+Olası İşlem Ücretleri:
+Bu işlem için bankanın belirlediği standart transfer ücreti, gönderilen miktarın %0,5'i kadar olabilir. Bu durumda, 5000.0 TL için hesaplanan ücret 25.0 TL olacaktır. Fakat banka politikaları ve müşterinin hesap türüne göre bu maliyet daha düşük olabilir ya da tamamen muaf tutulabilir. Akbank'tan Akbank'a veya Garanti BBVA'dan Garanti BBVA'ya gibi aynı banka içi transferlerde genellikle işlem ücreti alınmaz.
+
+Tahmini Transfer Süresi:
+EFT (Elektronik Fon Transferi) işlemleri aynı banka içinde gerçekleşiyorsa, genellikle hemen; farklı bankalar arası ise, iş günleri ve saatleri içinde yapıldığında genellikle 2-4 saat içinde tamamlanır. Havale işlemleri ise genellikle anında gerçekleşir. Ancak işlem saati ve bankanın işlem politikalarına bağlı olarak değişebilir. Hafta sonu veya resmi tatil günlerinde yapılan EFT işlemleri ise ilk iş gününde işleme alınır.
+
+Güvenlik Kontrolleri:
+1. **IBAN Doğruluğu:** İşlem başlamadan önce alıcının IBAN'ının doğruluğu kontrol edilir. 
+2. **Kimlik Doğrulama:** Gönderici, işlemi onaylamak için genellikle bir kimlik doğrulama sürecinden geçer (şifre, SMS doğrulama kodu, vs.).
+3. **İşlem Limitleri:** Gönderilen miktar, bankanın belirlediği günlük maksimum transfer limitlerine uygun olmalıdır.
+4. **Alıcı Bilgisi Kontrolü:** Alıcı bilgileri IBAN numarası ile eşleştirilerek, fonların doğru hesaba transfer edilmesi sağlanır.
+
+Ek Öneriler veya Uyarılar:
+1. **İki-Faktörlü Doğrulama:** Mümkünse, hesabınız için ek güvenlik olarak iki-faktörlü doğrulama özelliğini etkinleştirin.
+2. **Gönderici ve Alıcı Bilgilerini İki Kez Kontrol Edin:** Para transferi yapmadan önce tüm bilgilerin doğruluğunu iki kez kontrol edin.
+3. **Güvenli İnternet Bağlantısı Kullanın:** İşlemi gerçekleştirirken güvenli bir internet bağlantısı kullanmaya özen gösterin. Kamu Wi-Fi ağlarından kaçının.
+4. **Transfer Limitlerini İnceleyin:** Bazı bankalar farklı transfer türleri için farklı limitler belirleyebilir. Limit aşımı durumunda ek ücretler uygulanabilir.
+
+Yukarıdaki bilgiler, genel bir rehber olarak verilmekle birlikte, işlem ücretleri, transfer süresi ve diğer detaylar konusunda kendi bankanızın güncel bilgilerini kontrol etmeniz önem taşımaktadır.
+
+Gönderen: Anıl Çoğalan
+Alıcı: Muhammet Çelik
+Miktar: 10000000.0 TL
+IBAN: TR33 0006 1005 1978 6457 8413 26
+Simülasyon Sonucu:
+### İşlem Onayı veya Reddi
+
+- **Onay Durumu:** İşlemin onaylanabilmesi için, Anıl Çoğalan'ın hesabında yeterli miktarın bulunması gerekmektedir. Eğer hesapta yeterli bakiye mevcutsa ve herhangi bir güvenlik endişesi yoksa işlem onaylanır. Bu durum, aynı zamanda, alıcının IBAN'ının doğru girilmiş olması ve herhangi bir dolandırıcılık şüphesi bulunmamasına bağlıdır.
+
+- **Red Durumu:** Yetersiz bakiye, yanlış veya eksik IBAN bilgisi, güvenlik endişeleri durumunda işlem reddedilebilir.
+
+### Olası İşlem Ücretleri
+
+Bu büyük bir transfer olduğundan, işleme uygulanacak ücretler değişkenlik gösterebilir. Genelde bankalar, ulusal transferler için yüzde bir kesinti yapabilir veya sabit bir ücret talep edebilir. Ancak, 10.000.000 TL gibi büyük bir miktar için, tipik olarak bankalar arası bir pazarlık ya da önceden belirlenmiş bir kurumsal müşteri ücreti geçerli olabilir.
+
+### Tahmini Transfer Süresi
+
+- **Ulusal EFT:** Eğer bu transfer bir Ulusal Elektronik Fon Transferi (EFT) aracılığıyla yapılıyorsa, işlem genellikle aynı gün içinde ya da en geç sonraki iş günü içinde tamamlanır.
+
+### Güvenlik Kontrolleri
+
+Bu büyüklükteki transferler, yoğun güvenlik ve dolandırıcılık önleme kontrollerinden geçirilir. Güvenlik kontrol süreçleri şunları içerebilir:
+
+1. **Müşteri Tanıma (KYC) Kontrolleri:** Gönderen ve alıcının kimlik doğrulaması.
+2. **AML (Para Aklama ile Mücadele) Denetimleri:** İşlemin herhangi bir yasa dışı faaliyetle bağlantılı olup olmadığının araştırılması.
+3. **Dolandırıcılık İncelemeleri:** İşlemin dolandırıcılık içermeyen meşru bir transfer olduğunun doğrulanması.
+4. **Limit Kontrolleri:** Gönderenin günlük veya aylık transfer limitlerine uygun olup olmadığının kontrolü.
+
+### Ek Öneriler veya Uyarılar
+
+- **Onay Süreci:** Bu büyüklükteki bir transfer, banka tarafından ek onay süreçlerine tabi tutulabilir. Gönderen, işlemin sorunsuz ilerlemesi için banka ile iletişimde olmalıdır.
+- **Gizlilik ve Güvenlik:** Gönderen ve alıcı, kişisel ve hesap bilgilerini korumaya dikkat etmeli, özellikle kimlik hırsızlığı ve dolandırıcılık faaliyetlerine karşı uyanık olmalıdırlar.
+- **Vergisel Yükümlülükler:** Bu büyüklükte bir transfer, vergisel yükümlülükler açısından incelenmelidir. Alıcı ve gönderenin, olası vergi durumları hakkında bilgi sahibi olmaları ve gerekirse bir mali danışmana başvurmaları önerilir.
+
+Bu işlem sırasında, hem gönderenin hem de alıcının tüm işlem detaylarını dikkatlice gözden geçirmesi, ve herhangi bir tereddüt durumunda, bankalarıyla doğrudan iletişime geçmeleri önemlidir.
+

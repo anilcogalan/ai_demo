@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "mobile-bankingai"
+version = "0.1.0"
+description = ""
+authors = ["anil.cogalan <anil.cogalan@dias.teknoloji.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+openai = "^1.52.0"
+python-dotenv = "^1.0.1"
+streamlit = "^1.39.0"
+pyaudio = "^0.2.14"
+wave = "^0.0.2"
+gtts = "^2.5.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,9 @@
+1.Dört farklı bankacılık işlemi eklendi: havale, bakiye sorgulama, kredi başvurusu ve fatura ödeme.
+2.Her işlem için ayrı bir form oluşturuldu.
+3.islem_simulasyonu fonksiyonu, farklı işlem tipleri için farklı simülasyonlar gerçekleştiriyor.
+4.Sohbet botu, kullanıcının mesajlarından hangi işlemi yapmak istediğini anlamaya çalışıyor.
+5.İşlem Ekranı, seçilen işleme göre dinamik olarak değişiyor.
+
+"Ahmet'e 500 TL havale yapmak istiyorum" yazarsanız, işlem türü "Havale", alıcı adı "Ahmet" ve miktar 500 TL olarak doldurulacaktır.
+"10000 TL kredi başvurusu yapmak istiyorum, 24 ay vadeli" yazarsanız, işlem türü "Kredi Başvurusu", miktar 10000 TL ve vade 24 ay olarak ayarlanacaktır.
+"Elektrik faturamı ödemek istiyorum" yazarsanız, işlem türü "Fatura Ödeme" ve fatura türü "Elektrik" olarak seçilecektir.
